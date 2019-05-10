@@ -1,14 +1,6 @@
 # go-rest-api
 
-Simple GOlang REST API example with HipChat Integration
-
-Checkout the reposority
-
-`git clone https://github.com/chentex/go-rest-api.git`
-
-Go to the folder
-
-`cd go-rest-api/`
+Simple GOlang REST API example
 
 ## Run Application
 
@@ -39,4 +31,4 @@ To the image try this URLs
 `http://localhost:8080/test`
 
 
-`http://localhost:8080/hola/chentex`
+`http://localhost:8080/hello/ch1pch4p`
